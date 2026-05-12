@@ -1,0 +1,8 @@
+C:\Users\akkis\AppData\Roaming\XIVLauncher\devPlugins\AnimSwapper\bin\Debug\AnimSwapper.deps.json
+C:\Users\akkis\AppData\Roaming\XIVLauncher\devPlugins\AnimSwapper\bin\Debug\AnimSwapper.dll
+C:\Users\akkis\AppData\Roaming\XIVLauncher\devPlugins\AnimSwapper\obj\Debug\AnimSwapper.csproj.AssemblyReference.cache
+C:\Users\akkis\AppData\Roaming\XIVLauncher\devPlugins\AnimSwapper\obj\Debug\AnimSwapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akkis\AppData\Roaming\XIVLauncher\devPlugins\AnimSwapper\obj\Debug\AnimSwapper.AssemblyInfoInputs.cache
+C:\Users\akkis\AppData\Roaming\XIVLauncher\devPlugins\AnimSwapper\obj\Debug\AnimSwapper.AssemblyInfo.cs
+C:\Users\akkis\AppData\Roaming\XIVLauncher\devPlugins\AnimSwapper\obj\Debug\AnimSwapper.csproj.CoreCompileInputs.cache
+C:\Users\akkis\AppData\Roaming\XIVLauncher\devPlugins\AnimSwapper\obj\Debug\AnimSwapper.dll

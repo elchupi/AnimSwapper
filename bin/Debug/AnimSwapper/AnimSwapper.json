@@ -1,0 +1,28 @@
+{
+  "Author": "ebhemmanuel",
+  "Name": "AnimSwapper",
+  "InternalName": "AnimSwapper",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Swap run/walk/idle animations between races. Swap weapon hold, movement, and auto-attack animations between jobs. Auto-apply Glamourer designs by territory.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ebhemmanuel/AnimSwapper",
+  "Tags": [
+    "animation",
+    "swap",
+    "glamourer",
+    "penumbra",
+    "race",
+    "job"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Race/job animation swaps + Glamourer territory automation",
+  "Changelog": "Initial release.",
+  "AcceptsFeedback": true
+}

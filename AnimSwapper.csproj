@@ -6,4 +6,9 @@
         <AppendPlatformToOutputPath>false</AppendPlatformToOutputPath>
     </PropertyGroup>
 
+    <ItemGroup>
+        <None Include="images\icon.png" CopyToOutputDirectory="PreserveNewest" />
+        <EmbeddedResource Include="images\icon.png" />
+    </ItemGroup>
+
 </Project>

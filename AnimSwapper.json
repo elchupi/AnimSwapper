@@ -1,9 +1,9 @@
 {
-  "Author": "ebhemmanuel",
+  "Author": "elchupi",
   "Name": "AnimSwapper",
   "Punchline": "Race/job animation swaps + Glamourer territory automation",
   "Description": "Swap run/walk/idle animations between races. Swap weapon hold, movement, and auto-attack animations between jobs. Auto-apply Glamourer designs by territory.",
-  "RepoUrl": "https://github.com/ebhemmanuel/AnimSwapper",
+  "RepoUrl": "https://github.com/elchupi/AnimSwapper",
   "CategoryTags": [
     "utility"
   ],

@@ -5,7 +5,7 @@ FFXIV Dalamud plugin for race/job animation swaps and Glamourer territory automa
 ## Features
 
 - **Race Animation Swaps** — swap walk, run, and idle animations between races via Penumbra IPC
-- **Female Animation Toggle** — per-rule option to use female variants of animations
+- **Opposite Gender Toggle** — per-rule option to use the opposite gender's animations
 - **Glamourer Territory Automation** — auto-apply Glamourer designs when entering specific zones, with revert on leave
 - **Duty Glamour** — set a global glamour design for all duties, with per-territory overrides
 

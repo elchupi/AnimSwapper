@@ -924,7 +924,8 @@ public static unsafe class AnimationSwap
 
             // Compute target model code (the animations to use instead).
             byte tgtTribe = GetDefaultTribe(rule.TargetRace);
-            tgtCode = GetModelCode(rule.TargetRace, matchSex, tgtTribe);
+            byte tgtSex = rule.UseOppositeGender ? (byte)(matchSex == 0 ? 1 : 0) : matchSex;
+            tgtCode = GetModelCode(rule.TargetRace, tgtSex, tgtTribe);
 
             _swapRun = rule.SwapWalk;  // Run follows Walk toggle
             _swapWalk = rule.SwapWalk;

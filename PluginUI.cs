@@ -125,6 +125,9 @@ public static class PluginUI
                 ImGui.SameLine();
                 if (ImGui.Checkbox("Idle", ref rule.SwapIdle))
                     AnimSwapper.Config.Save();
+                ImGui.SameLine();
+                if (ImGui.Checkbox("Opposite Gender", ref rule.UseOppositeGender))
+                    AnimSwapper.Config.Save();
 
                 ImGui.Spacing();
 

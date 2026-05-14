@@ -2,7 +2,7 @@
   "Author": "elchupi",
   "Name": "AnimSwapper",
   "Punchline": "Race/job animation swaps + Glamourer territory automation",
-  "Description": "Swap run/walk/idle animations between races. Swap weapon hold, movement, and auto-attack animations between jobs. Auto-apply Glamourer designs by territory.",
+  "Description": "Swap walk/run animations between races. Swap weapon hold, movement, and auto-attack animations between jobs. Auto-apply Glamourer designs by territory.\n\nRequires Penumbra (for animation swaps) and Glamourer (for glamour automation).",
   "RepoUrl": "https://github.com/elchupi/AnimSwapper",
   "CategoryTags": [
     "utility"

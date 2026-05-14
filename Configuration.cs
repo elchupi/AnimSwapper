@@ -9,9 +9,6 @@ public class AnimationSwapRule
     public bool Enabled = true;
     public byte SourceRace;        // 0 = any/current
     public byte TargetRace;        // Race whose animations to use
-    public bool SwapRun  = true;
-    public bool SwapWalk = true;
-    public bool SwapIdle = false;
     public bool UseOppositeGender = false; // use opposite gender's animation set
     public ushort TerritoryId;     // 0 = any territory
     public string TerritoryName = "";

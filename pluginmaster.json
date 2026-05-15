@@ -3,7 +3,7 @@
     "Author": "elchupi",
     "Name": "AnimSwapper",
     "InternalName": "AnimSwapper",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "Swap walk/run animations between races. Swap weapon hold, movement, and auto-attack animations between jobs. Auto-apply Glamourer designs by territory.\n\nRequires Penumbra (for animation swaps) and Glamourer (for glamour automation).",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/elchupi/AnimSwapper",
@@ -28,7 +28,7 @@
     "DownloadLinkInstall": "https://github.com/elchupi/AnimSwapper/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/elchupi/AnimSwapper/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/elchupi/AnimSwapper/releases/latest/download/latest.zip",
-    "Changelog": "Initial release.",
+    "Changelog": "Fix idle pose passthrough from Penumbra. Race swap targets now resolve through Penumbra so user mods chain correctly on redraw.",
     "AcceptsFeedback": true
   }
 ]

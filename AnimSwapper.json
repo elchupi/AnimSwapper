@@ -16,6 +16,6 @@
     "job"
   ],
   "InternalName": "AnimSwapper",
-  "AssemblyVersion": "1.0.0.0",
-  "Changelog": "Initial release."
+  "AssemblyVersion": "1.0.1.0",
+  "Changelog": "Fix idle pose passthrough from Penumbra. Race swap targets now resolve through Penumbra so user mods chain correctly on redraw."
 }
